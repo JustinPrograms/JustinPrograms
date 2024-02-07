@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jdhill94@uwo.ca**
 
-- ⚡ Fun fact **I thought C++ would be easy to learn.. i was wrong**
+- ⚡ Fun fact **I thought C++ would be easy to learn..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
