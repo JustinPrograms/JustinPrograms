@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinprograms&label=Profile%20views&color=0e75b6&style=flat" alt="justinprograms" /> </p>
 
-- 🔭 I’m currently working on **interesting school projects**
+- 🔭 I’m currently working on **completing The Odin Project**
 
 - 🌱 I’m currently learning **React, C and TensorFlow**
 
