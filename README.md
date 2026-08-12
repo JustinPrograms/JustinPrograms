@@ -68,15 +68,6 @@
 - 💬 Happy to talk **Python, algorithms, and AI**
 - ⚡ Fun fact: I once thought C++ would be easy to learn...
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinprograms&show_icons=true&theme=default&hide_border=true" alt="Justin's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justinprograms&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ---
 
 <p align="center">
