@@ -1,30 +1,85 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Justin Dhillon</h1>
-<h3 align="center">Creative problem-solver leveraging technology for positive change</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h1 align="center">Hey, I'm Justin Dhillon 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justinprograms&label=Profile%20views&color=0e75b6&style=flat" alt="justinprograms" /> </p>
-
-- 🔭 I’m currently working on **completing The Odin Project**
-
-- 🌱 I’m currently learning **React, C and TensorFlow**
-
-- 💬 Ask me about **Python and Artificial Intelligence**
-
-- 📫 How to reach me **jdhill94@uwo.ca**
-
-- ⚡ Fun fact **I thought C++ would be easy to learn..**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/justin-dhillon-207287286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/justin-dhillon-207287286/" height="30" width="40" /></a>
+<p align="center">
+  Software developer & student at Western University 🇨🇦<br>
+  I build things in <b>Python, C++, Java, and JavaScript</b> — and I'm deep into <b>AI/ML</b>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justinprograms&show_icons=true&locale=en&layout=compact" alt="justinprograms" /></p>
+<p align="center">
+  <a href="mailto:jdhill94@uwo.ca">
+    <img src="https://img.shields.io/badge/📫_Email_Me-jdhill94@uwo.ca-0e75b6?style=for-the-badge" alt="Email Justin" />
+  </a>
+  <a href="https://www.linkedin.com/in/justin-dhillon-207287286/">
+    <img src="https://img.shields.io/badge/LinkedIn-Justin_Dhillon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinprograms&show_icons=true&locale=en" alt="justinprograms" /></p>
+<p align="center">
+  💼 <b>Open to internship & co-op opportunities</b> — the fastest way to reach me is
+  <a href="mailto:jdhill94@uwo.ca"><b>jdhill94@uwo.ca</b></a>. I reply quickly.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justinprograms&" alt="justinprograms" /></p>
+---
+
+## 🚀 What I bring
+
+- **Strong CS fundamentals** — sharpened through competitive programming ([Codeforces](https://github.com/JustinPrograms/CodeForces) and the [Canadian Computing Competition](https://github.com/JustinPrograms/CanadianComputingCompetition)), where every solution has to be correct *and* fast.
+- **I ship real software people use** — from multiplayer game mechanics to community moderation tools, not just tutorial projects.
+- **I learn fast and in public** — currently working through The Odin Project full-stack curriculum and building with React, C, and TensorFlow. My commit history is my resume.
+
+## 🛠️ Featured Projects
+
+| Project | What it is | Built with |
+|---------|-----------|------------|
+| [**TeleportationBalls**](https://github.com/JustinPrograms/TeleportationBalls) | Multiplayer game mechanic: throw a projectile, swap places with whatever it hits. Real-time event handling in a live multiplayer environment. | `Java` |
+| [**BlacklistDiscordBot**](https://github.com/JustinPrograms/BlacklistDiscordBot) | Cross-server moderation bot that lets communities share ban lists — automating trust & safety across Discord servers. | `Java` |
+| [**CodeForces**](https://github.com/JustinPrograms/CodeForces) | My competitive programming solutions — algorithms, data structures, and optimization under time pressure. | `C++` |
+| [**CanadianComputingCompetition**](https://github.com/JustinPrograms/CanadianComputingCompetition) | Solutions to CCC contest problems from Canada's national programming competition. | `C++` |
+| [**Tic-Tac-Toe**](https://github.com/JustinPrograms/Tic-Tac-Toe) | Console game with clean game-state logic — one of my first C++ projects. | `C++` |
+
+## 🧰 Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+## 📈 Currently
+
+- 🎓 Studying at **Western University** (UWO)
+- 🔭 Completing **The Odin Project** full-stack curriculum
+- 🌱 Learning **React, C, and TensorFlow**
+- 💬 Happy to talk **Python, algorithms, and AI**
+- ⚡ Fun fact: I once thought C++ would be easy to learn...
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=justinprograms&show_icons=true&theme=default&hide_border=true" alt="Justin's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justinprograms&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <b>Recruiters & hiring managers:</b> if you're looking for a driven developer who learns fast and ships,<br>
+  let's talk → <a href="mailto:jdhill94@uwo.ca"><b>jdhill94@uwo.ca</b></a>
+</p>
