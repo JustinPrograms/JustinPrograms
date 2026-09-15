@@ -1,76 +1,57 @@
-<h1 align="center">Hey, I'm Justin Dhillon 👋</h1>
+<h1 align="center">Hey, I'm Justin 👋</h1>
 
 <p align="center">
-  Software developer & student at Western University 🇨🇦<br>
-  I build things in <b>Python, C++, Java, and JavaScript</b> — and I'm deep into <b>AI/ML</b>.
+  <b>Software Developer Intern at IBM</b> · Computer Science at Western University
 </p>
 
 <p align="center">
-  <a href="mailto:jdhill94@uwo.ca">
-    <img src="https://img.shields.io/badge/📫_Email_Me-jdhill94@uwo.ca-0e75b6?style=for-the-badge" alt="Email Justin" />
+  I build developer tools, AI systems, and software for IBM Z.
+</p>
+
+<p align="center">
+  <a href="https://justindhillon.me">
+    <img src="https://img.shields.io/badge/Website-justindhillon.me-0e75b6?style=for-the-badge" alt="Justin's website" />
   </a>
-  <a href="https://www.linkedin.com/in/justin-dhillon-207287286/">
+  <a href="https://justindhillon.me/assets/resume.44c18501.pdf">
+    <img src="https://img.shields.io/badge/Resume-View_PDF-6f42c1?style=for-the-badge" alt="Justin's resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/justinsinghdhillon">
     <img src="https://img.shields.io/badge/LinkedIn-Justin_Dhillon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:jdhill94@uwo.ca">
+    <img src="https://img.shields.io/badge/Email-jdhill94%40uwo.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Justin" />
+  </a>
 </p>
+
+## What I'm working on
+
+- Software development on IBM Z at **IBM**
+- [**JStack**](https://github.com/JustinPrograms/jstack), portable planning, implementation, and review workflows for Claude Code, Codex, and IBM Bob
+- **Ayori**, a private knowledge-capture system for mainframe codebases using TypeScript, PostgreSQL, pgvector, AWS Bedrock, and Zowe
+
+## Featured projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **Ayori** *(private)* | Captures undocumented decisions from COBOL, JCL, and REXX, then makes that knowledge searchable with grounded retrieval. | TypeScript, Node.js, PostgreSQL, pgvector, AWS Bedrock, Zowe |
+| [**JStack**](https://github.com/JustinPrograms/jstack) | Adds reusable planning, plan critique, implementation, and code-review workflows to coding agents. | Markdown skills, Shell, PowerShell |
+| **RiskGuard** | Runs real-time credit-card fraud detection on IBM Z at 10,000+ transactions per second with sub-50ms latency. | Python, COBOL, LightGBM, ONNX, IBM LinuxONE |
+| [**TeleportationBalls**](https://github.com/JustinPrograms/TeleportationBalls) | A Java game mechanic that lets players swap places by throwing a projectile. Downloaded 250+ times. | Java |
+
+## A bit about me
+
+- Fourth-year Computer Science student at **Western University**
+- Previously a Software Engineering Intern and Mainframe Developer at **Sun Life**
+- Former President of the **Western Cyber Society**
+- Got my start with competitive programming in high school through [Codeforces](https://github.com/JustinPrograms/CodeForces) and the [Canadian Computing Competition](https://github.com/JustinPrograms/CanadianComputingCompetition)
+
+## Tech
+
+**Languages:** Python, Java, C++, TypeScript, JavaScript, SQL, COBOL  
+**Backend and data:** Node.js, REST APIs, PostgreSQL, pgvector, Docker, Kubernetes  
+**AI and ML:** AWS Bedrock, RAG, PyTorch, Scikit-learn, ONNX, LightGBM  
+**Systems:** IBM Z, z/OS, Linux, DB2, IMS, JCL, REXX
 
 <p align="center">
-  💼 <b>Open to internship & co-op opportunities</b> — the fastest way to reach me is
-  <a href="mailto:jdhill94@uwo.ca"><b>jdhill94@uwo.ca</b></a>. I reply quickly.
-</p>
-
----
-
-## 🚀 What I bring
-
-- **Strong CS fundamentals** — sharpened through competitive programming ([Codeforces](https://github.com/JustinPrograms/CodeForces) and the [Canadian Computing Competition](https://github.com/JustinPrograms/CanadianComputingCompetition)), where every solution has to be correct *and* fast.
-- **I ship real software people use** — from multiplayer game mechanics to community moderation tools, not just tutorial projects.
-- **I learn fast and in public** — currently working through The Odin Project full-stack curriculum and building with React, C, and TensorFlow. My commit history is my resume.
-
-## 🛠️ Featured Projects
-
-| Project | What it is | Built with |
-|---------|-----------|------------|
-| [**TeleportationBalls**](https://github.com/JustinPrograms/TeleportationBalls) | Multiplayer game mechanic: throw a projectile, swap places with whatever it hits. Real-time event handling in a live multiplayer environment. | `Java` |
-| [**BlacklistDiscordBot**](https://github.com/JustinPrograms/BlacklistDiscordBot) | Cross-server moderation bot that lets communities share ban lists — automating trust & safety across Discord servers. | `Java` |
-| [**CodeForces**](https://github.com/JustinPrograms/CodeForces) | My competitive programming solutions — algorithms, data structures, and optimization under time pressure. | `C++` |
-| [**CanadianComputingCompetition**](https://github.com/JustinPrograms/CanadianComputingCompetition) | Solutions to CCC contest problems from Canada's national programming competition. | `C++` |
-| [**Tic-Tac-Toe**](https://github.com/JustinPrograms/Tic-Tac-Toe) | Console game with clean game-state logic — one of my first C++ projects. | `C++` |
-
-## 🧰 Languages & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-## 📈 Currently
-
-- 🎓 Studying at **Western University** (UWO)
-- 🔭 Completing **The Odin Project** full-stack curriculum
-- 🌱 Learning **React, C, and TensorFlow**
-- 💬 Happy to talk **Python, algorithms, and AI**
-- ⚡ Fun fact: I once thought C++ would be easy to learn...
-
----
-
-<p align="center">
-  <b>Recruiters & hiring managers:</b> if you're looking for a driven developer who learns fast and ships,<br>
-  let's talk → <a href="mailto:jdhill94@uwo.ca"><b>jdhill94@uwo.ca</b></a>
+  <a href="mailto:jdhill94@uwo.ca"><b>jdhill94@uwo.ca</b></a>
 </p>
