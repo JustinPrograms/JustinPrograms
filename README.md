@@ -9,10 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://justindhillon.me"><img src="https://img.shields.io/badge/justindhillon.me-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Justin's website" /></a>
-  <a href="https://justindhillon.me/resume.pdf"><img src="https://img.shields.io/badge/Resume_PDF-6f42c1?style=for-the-badge&logo=googledocs&logoColor=white" alt="Justin's resume" /></a>
-  <a href="https://www.linkedin.com/in/justinsinghdhillon"><img src="https://img.shields.io/badge/Justin_Dhillon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jdhill94@uwo.ca"><img src="https://img.shields.io/badge/jdhill94%40uwo.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Justin" /></a>
+  <a href="https://justindhillon.me"><b>Website</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://justindhillon.me/resume.pdf"><b>Résumé</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/justinsinghdhillon"><b>LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:jdhill94@uwo.ca"><b>Email</b></a>
 </p>
 
 ## What I'm working on
