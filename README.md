@@ -12,7 +12,7 @@
   <a href="https://justindhillon.me">
     <img src="https://img.shields.io/badge/Website-justindhillon.me-0e75b6?style=for-the-badge" alt="Justin's website" />
   </a>
-  <a href="https://justindhillon.me/assets/resume.44c18501.pdf">
+  <a href="https://justindhillon.me/resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View_PDF-6f42c1?style=for-the-badge" alt="Justin's resume" />
   </a>
   <a href="https://www.linkedin.com/in/justinsinghdhillon">
@@ -51,6 +51,14 @@
 **Backend and data:** Node.js, REST APIs, PostgreSQL, pgvector, Docker, Kubernetes  
 **AI and ML:** AWS Bedrock, RAG, PyTorch, Scikit-learn, ONNX, LightGBM  
 **Systems:** IBM Z, z/OS, Linux, DB2, IMS, JCL, REXX
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustinPrograms/JustinPrograms/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustinPrograms/JustinPrograms/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating Justin's GitHub contributions" src="https://raw.githubusercontent.com/JustinPrograms/JustinPrograms/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <p align="center">
   <a href="mailto:jdhill94@uwo.ca"><b>jdhill94@uwo.ca</b></a>
