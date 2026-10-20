@@ -21,11 +21,26 @@
 - [**JStack**](https://github.com/JustinPrograms/jstack), portable planning, implementation, and review workflows for Claude Code, Codex, and IBM Bob
 - **Ayori**, a private knowledge-capture system for mainframe codebases using TypeScript, PostgreSQL, pgvector, AWS Bedrock, and Zowe
 
-## Featured projects
+## Featured work
 
-<p align="center">
-  <img src="https://coolreadme.xyz/api/projects-gallery?accent=0e75b6&layout=spotlight&theme=dark&user=JustinPrograms" alt="Selected GitHub projects" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JustinPrograms/jstack">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinPrograms&repo=jstack&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="JStack repository card" />
+      </a>
+      <p>Portable planning, implementation, testing, and review workflows for Claude Code, Codex, and IBM Bob.</p>
+      <a href="https://github.com/JustinPrograms/jstack"><b>Explore JStack →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ibm-skills-network/mark">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ibm-skills-network&repo=mark&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="IBM Skills Network Mark repository card" />
+      </a>
+      <p>Open-source feature and bug-fix work across IBM Skills Network's assessment platform.</p>
+      <a href="https://github.com/ibm-skills-network/mark/pulls?q=is%3Apr+author%3AJustinPrograms"><b>View my Mark contributions →</b></a>
+    </td>
+  </tr>
+</table>
 
 ## A bit about me
 
