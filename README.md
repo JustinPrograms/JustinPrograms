@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build developer tools, AI systems, and software for IBM Z.
+  I build developer tools, AI systems, and production software.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## What I'm working on
 
-- Software development on IBM Z at **IBM**
+- Software development at **IBM**
 - [**JStack**](https://github.com/JustinPrograms/jstack), portable planning, implementation, and review workflows for Claude Code, Codex, and IBM Bob
 - **Ayori**, a private knowledge-capture system for mainframe codebases using TypeScript, PostgreSQL, pgvector, AWS Bedrock, and Zowe
 
