@@ -15,6 +15,10 @@
   <a href="mailto:jdhill94@uwo.ca"><img src="https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JustinPrograms&amp;label=Profile+views&amp;color=0e75b6&amp;style=flat-square" alt="Profile views" />
+</p>
+
 ## What I'm working on
 
 - Software development at **IBM**
@@ -62,6 +66,16 @@
 **Backend and data:** Node.js, REST APIs, PostgreSQL, pgvector, Docker, Kubernetes  
 **AI and ML:** AWS Bedrock, RAG, PyTorch, Scikit-learn, ONNX, LightGBM  
 **Systems:** IBM Z, z/OS, Linux, DB2, IMS, JCL, REXX
+
+## Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustinPrograms/JustinPrograms/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustinPrograms/JustinPrograms/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/JustinPrograms/JustinPrograms/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
 <p align="center">
   <a href="mailto:jdhill94@uwo.ca"><b>jdhill94@uwo.ca</b></a>
