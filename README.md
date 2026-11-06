@@ -39,6 +39,14 @@
       <a href="https://github.com/ibm-skills-network/mark/pulls?q=is%3Apr+author%3AJustinPrograms"><b>View my Mark contributions →</b></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JustinPrograms/RiskGuard">RiskGuard</a></h3>
+      Real-time fraud detection with LightGBM, ONNX, and Triton inference.
+      <br /><br />
+      <a href="https://github.com/JustinPrograms/RiskGuard"><b>Explore RiskGuard →</b></a>
+    </td>
+  </tr>
 </table>
 
 ## A bit about me
