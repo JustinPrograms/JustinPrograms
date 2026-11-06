@@ -20,13 +20,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate light and dark contribution snakes
-        uses: Platane/snk/svg-only@v3
+      - name: Generate growing contribution snake
+        uses: dahan8473/snake-and-commits@c55d1f1668e849195f395a9d93c56e74b68aaac2 # v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user: ${{ github.repository_owner }}
+          output: dist/snake.svg
+          theme: green
+          frame: "true"
+          counter: "true"
 
       - name: Publish generated SVGs
         uses: peaceiris/actions-gh-pages@v4
