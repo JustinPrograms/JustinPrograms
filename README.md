@@ -38,7 +38,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>Mark · IBM Skills Network</h3>
-      Feature and bug-fix work across IBM Skills Network's assessment platform.
+      Contributed open-source features and bug fixes to IBM Skills Network's assessment platform; the repository is now private.
     </td>
   </tr>
   <tr>
