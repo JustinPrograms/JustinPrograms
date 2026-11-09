@@ -67,9 +67,10 @@
 ## Tech
 
 **Languages:** Python, Java, C++, TypeScript, JavaScript, SQL, COBOL  
-**Backend and data:** Node.js, REST APIs, PostgreSQL, pgvector, Docker, Kubernetes  
-**AI and ML:** AWS Bedrock, RAG, PyTorch, Scikit-learn, ONNX, LightGBM  
-**Systems:** IBM Z, z/OS, Linux, DB2, IMS, JCL, REXX
+**Backend & Data:** Node.js, NestJS, FastAPI, REST APIs, Prisma, PostgreSQL, SQLite, IBM Db2, Redis, BullMQ  
+**Cloud & Infrastructure:** AWS (EC2, S3, Amazon Bedrock), Docker, Linux, Git, IBM LinuxONE, z/OS  
+**AI & Machine Learning:** PyTorch, Scikit-learn, LightGBM, Pandas, NumPy, ONNX Runtime, NVIDIA Triton, ML Inference, Feature Engineering, Model Evaluation, RAG, Vector Search, pgvector, Model Context Protocol (MCP)  
+**Frontend & Testing:** React, Next.js, Jest, Vitest, Playwright, Unit Testing, Integration Testing
 
 ## Contributions
 
