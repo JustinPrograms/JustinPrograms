@@ -23,7 +23,7 @@
 
 - Software development at **IBM**
 - [**JStack**](https://github.com/JustinPrograms/jstack), portable planning, implementation, and review workflows for Claude Code, Codex, and IBM Bob
-- [**Mark**](https://github.com/ibm-skills-network/mark), open-source feature and bug-fix work on IBM Skills Network's assessment platform
+- **Mark**, feature and bug-fix work on IBM Skills Network's assessment platform
 - **Ayori**, a private knowledge-capture system for mainframe codebases using TypeScript, PostgreSQL, pgvector, AWS Bedrock, and Zowe
 
 ## Featured work
@@ -37,10 +37,8 @@
       <a href="https://github.com/JustinPrograms/jstack"><b>Explore JStack →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ibm-skills-network/mark">Mark · IBM Skills Network</a></h3>
-      Open-source feature and bug-fix work across IBM Skills Network's assessment platform.
-      <br /><br />
-      <a href="https://github.com/ibm-skills-network/mark/pulls?q=is%3Apr+author%3AJustinPrograms"><b>View my Mark contributions →</b></a>
+      <h3>Mark · IBM Skills Network</h3>
+      Feature and bug-fix work across IBM Skills Network's assessment platform.
     </td>
   </tr>
   <tr>
