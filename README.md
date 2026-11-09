@@ -62,7 +62,7 @@
 - Fourth-year Computer Science student at **Western University**
 - Previously a Software Engineering Intern and Mainframe Developer at **Sun Life**
 - Former President of the **Western Cyber Society**
-- Got my start with competitive programming in high school through [Codeforces](https://github.com/JustinPrograms/CodeForces) and the [Canadian Computing Competition](https://github.com/JustinPrograms/CanadianComputingCompetition)
+- Got my start with competitive programming in high school through Codeforces and the Canadian Computing Competition
 
 ## Tech
 
