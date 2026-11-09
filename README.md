@@ -44,7 +44,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/JustinPrograms/RiskGuard">RiskGuard</a></h3>
-      Real-time fraud detection with LightGBM, ONNX, and Triton inference.
+      Real-time fraud detection with LightGBM, ONNX, and Triton inference. Presented to major banks and IBM; won the Best ML Award at Toronto Tech Expo.
       <br /><br />
       <a href="https://github.com/JustinPrograms/RiskGuard"><b>Explore RiskGuard →</b></a>
     </td>
