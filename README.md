@@ -49,8 +49,10 @@
       <a href="https://github.com/JustinPrograms/RiskGuard"><b>Explore RiskGuard →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Guardian AML</h3>
-      An in-development MVP exploring machine learning for anti-money laundering on LinuxONE using IBM synthetic datasets. The repository is private.
+      <h3><a href="https://github.com/JustinPrograms/GuardianAML">Guardian AML</a></h3>
+      An in-development MVP exploring machine learning for anti-money laundering on LinuxONE using IBM synthetic datasets. Presented to major banks.
+      <br /><br />
+      <a href="https://github.com/JustinPrograms/GuardianAML"><b>Explore Guardian AML →</b></a>
     </td>
   </tr>
 </table>
