@@ -48,6 +48,10 @@
       <br /><br />
       <a href="https://github.com/JustinPrograms/RiskGuard"><b>Explore RiskGuard →</b></a>
     </td>
+    <td width="50%" valign="top">
+      <h3>Guardian AML</h3>
+      An in-development MVP exploring machine learning for anti-money laundering on LinuxONE using IBM synthetic datasets. The repository is private.
+    </td>
   </tr>
 </table>
 
