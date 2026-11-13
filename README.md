@@ -1,83 +1,32 @@
-<h1 align="center">Hey, I'm Justin 👋</h1>
+# Justin Dhillon
 
-<p align="center">
-  <b>Software Developer Intern at IBM</b> · Computer Science at Western University
-</p>
+Software Developer Intern at **IBM** · Honours Computer Science, Software Engineering minor at **Western University** (expected April 2028)
 
-<p align="center">
-  I build developer tools, AI systems, and production software.
-</p>
+I build reliable backend systems, AI developer tools, and machine learning applications. At IBM, I work across TypeScript/NestJS services, React interfaces, retrieval, authentication, and Kubernetes deployments. Previously at Sun Life, I built an AI knowledge-capture platform and automated mainframe diagnostics.
 
-<p align="center">
-  <a href="https://justindhillon.me"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://justindhillon.me/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-0e75b6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Résumé" /></a>
-  <a href="https://www.linkedin.com/in/justinsinghdhillon"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jdhill94@uwo.ca"><img src="https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+[Website](https://justindhillon.me) · [Résumé](https://justindhillon.me/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/justinsinghdhillon) · [Email](mailto:jdhill94@uwo.ca)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JustinPrograms&amp;label=Profile+views&amp;color=0e75b6&amp;style=flat-square" alt="Profile views" />
-</p>
+## Selected projects
 
-## What I'm working on
+| Project | What I built |
+| --- | --- |
+| [RiskGuard](https://github.com/JustinPrograms/RiskGuard) | Fraud-detection pipeline with Python, LightGBM, ONNX, and NVIDIA Triton. Processed 10,000+ transactions per second at under 50 ms latency; achieved 97% accuracy on 590,540 labeled transactions. |
+| [GuardianAML](https://github.com/JustinPrograms/GuardianAML) | Anti-money-laundering prototype for IBM LinuxONE with FastAPI, SQLite, a JavaScript dashboard, and four selectable LightGBM models served through ONNX Runtime. |
+| Ayori | TypeScript VS Code extension and Node.js backend that captures COBOL, JCL, and REXX expertise. Uses Amazon Bedrock and PostgreSQL/pgvector for grounded answers; deterministic checks cut refusal-validation latency from 7.5 seconds to 40 ms. |
 
-- Software development at **IBM**
-- [**JStack**](https://github.com/JustinPrograms/jstack), portable planning, implementation, and review workflows for Claude Code, Codex, and IBM Bob
-- **Mark**, feature and bug-fix work on IBM Skills Network's assessment platform
-- **Ayori**, a private knowledge-capture system for mainframe codebases using TypeScript, PostgreSQL, pgvector, AWS Bedrock, and Zowe
+## Experience
 
-## Featured work
+- **IBM · Software Developer Intern (Sept 2026–present):** Restored fault tolerance during Redis outages; migrated authentication to server-side sessions; repaired code-aware retrieval; deployed four microservices to IBM Cloud Kubernetes Service; built role-scoped ticket features with React and NestJS.
+- **Sun Life · Software Engineering Intern (May–Aug 2026):** Shipped an internal AI knowledge-capture platform with Python, React, and Amazon Bedrock; configured AWS deployment and extended a Zowe MCP server for mainframe operations.
+- **Sun Life · Mainframe Developer (May 2025–Apr 2026):** Automated IBM Db2 error detection, diagnostics, alerts, and post-maintenance regression checks.
+- **Western Cyber Society · President & IBM Z Student Ambassador (Apr 2024–May 2026):** Led 10 developers across two full-stack projects, helped deliver a 200+ attendee tech summit, and ran IBM Z workshops for 50+ students.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JustinPrograms/jstack">JStack</a></h3>
-      Portable planning, implementation, testing, and review workflows for Claude Code, Codex, and IBM Bob.
-      <br /><br />
-      <a href="https://github.com/JustinPrograms/jstack"><b>Explore JStack →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Mark · IBM Skills Network</h3>
-      Contributed open-source features and bug fixes to IBM Skills Network's assessment platform; the repository is now private.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JustinPrograms/RiskGuard">RiskGuard</a></h3>
-      Real-time fraud detection with LightGBM, ONNX, and Triton inference. Presented to major banks and IBM; won the Best ML Award at Toronto Tech Expo.
-      <br /><br />
-      <a href="https://github.com/JustinPrograms/RiskGuard"><b>Explore RiskGuard →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JustinPrograms/GuardianAML">Guardian AML</a></h3>
-      An in-development MVP exploring machine learning for anti-money laundering on LinuxONE using IBM synthetic datasets. Presented to major banks.
-      <br /><br />
-      <a href="https://github.com/JustinPrograms/GuardianAML"><b>Explore Guardian AML →</b></a>
-    </td>
-  </tr>
-</table>
-
-## A bit about me
-
-- Fourth-year Computer Science student at **Western University**
-- Previously a Software Engineering Intern and Mainframe Developer at **Sun Life**
-- Former President of the **Western Cyber Society**
-- Got my start with competitive programming in high school through Codeforces and the Canadian Computing Competition
-
-## Tech
+## Tools I use
 
 **Languages:** Python, Java, C++, TypeScript, JavaScript, SQL, COBOL  
-**Backend & Data:** Node.js, NestJS, FastAPI, REST APIs, Prisma, PostgreSQL, SQLite, IBM Db2, Redis, BullMQ  
-**Cloud & Infrastructure:** AWS (EC2, S3, Amazon Bedrock), Docker, Linux, Git, IBM LinuxONE, z/OS  
-**AI & Machine Learning:** PyTorch, Scikit-learn, LightGBM, Pandas, NumPy, ONNX Runtime, NVIDIA Triton, ML Inference, Feature Engineering, Model Evaluation, RAG, Vector Search, pgvector, Model Context Protocol (MCP)  
-**Frontend & Testing:** React, Next.js, Jest, Vitest, Playwright, Unit Testing, Integration Testing
+**Backend and data:** Node.js, NestJS, FastAPI, Prisma, PostgreSQL, SQLite, IBM Db2, Redis, BullMQ  
+**Cloud and infrastructure:** AWS (EC2, S3, Bedrock), IBM Cloud, Kubernetes, Helm, GitHub Actions, Docker, Linux, IBM LinuxONE, z/OS  
+**AI and ML:** PyTorch, Scikit-learn, LightGBM, ONNX Runtime, NVIDIA Triton, RAG, pgvector, MCP  
+**Frontend and testing:** React, Next.js, TanStack Query, Jest, Vitest, Playwright
 
-## Contributions
-
-<p align="center">
-  <img alt="Snake playing through my GitHub contributions, growing as it eats" src="https://raw.githubusercontent.com/JustinPrograms/JustinPrograms/output/snake.svg" width="100%" />
-</p>
-
-<p align="center">
-  <a href="mailto:jdhill94@uwo.ca"><b>jdhill94@uwo.ca</b></a>
-</p>
+<p align="center"><img alt="Snake playing through my GitHub contributions" src="https://raw.githubusercontent.com/JustinPrograms/JustinPrograms/output/snake.svg" width="100%" /></p>
